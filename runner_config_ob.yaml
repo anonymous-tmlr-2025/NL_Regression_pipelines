@@ -1,0 +1,4 @@
+num_workers: 1
+stdout_dir: ./output/online_boats
+running_file: ./queues/online_boats.running
+queue_file: ./queues/online_boats.queue

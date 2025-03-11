@@ -1,0 +1,11 @@
+.vscode
+
+__pycache__
+
+datasets/
+queues/*
+output/*
+# We force add results using git add -f results/**/**/results.json
+# and log with git add -f results/**/experiment_log.json
+results/*
+notebook_output/*

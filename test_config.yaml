@@ -1,0 +1,5 @@
+# Look at pipeline_components.py for the names
+preprocesser_order: ["stem",]
+tokeniser: whitespace
+featuriser: bow_count
+model: linear_regression

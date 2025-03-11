@@ -1,0 +1,6 @@
+# Look at pipeline_components.py for the names
+preprocesser_order: []
+tokeniser: bert
+featuriser: bert_cls
+model: resnet
+finetune: false

@@ -1,0 +1,4 @@
+num_workers: 1
+stdout_dir: ./output/jc_penney_products
+running_file: ./queues/jc_penney_products.running
+queue_file: ./queues/jc_penney_products.queue

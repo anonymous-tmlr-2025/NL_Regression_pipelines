@@ -1,0 +1,4 @@
+num_workers: 1
+stdout_dir: ./output/extra_runner
+running_file: ./queues/extra_runner.running
+queue_file: ./queues/extra_runner.queue
