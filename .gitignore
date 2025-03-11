@@ -9,3 +9,5 @@ output/*
 # and log with git add -f results/**/experiment_log.json
 results/*
 notebook_output/*
+
+key
